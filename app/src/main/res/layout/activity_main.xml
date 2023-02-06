@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg4"
+   >
+
+
+    <Button
+        android:id="@+id/buttonlog"
+        android:layout_width="283dp"
+        android:layout_height="97dp"
+        android:backgroundTint="#E89F9F"
+        android:fontFamily="@font/alex_brush"
+        android:text="Login"
+        android:textAllCaps="false"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.45"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.257" />
+
+
+    <Button
+        android:id="@+id/buttonreg"
+        android:layout_width="202dp"
+        android:layout_height="56dp"
+        android:background="#00FFFFFF"
+        android:backgroundTint="#00FFBEBE"
+        android:fontFamily="@font/aguafina_script"
+        android:text="Register Now"
+        android:textAllCaps="false"
+        android:textColor="#090808"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonlog"
+        app:layout_constraintVertical_bias="0.614" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

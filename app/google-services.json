@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966418071963",
+    "project_id": "mouassi-42228",
+    "storage_bucket": "mouassi-42228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966418071963:android:4f755bf8d35a4ccb0c213e",
+        "android_client_info": {
+          "package_name": "com.leemed.mouassi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966418071963-ahibuvn4jk7l2o6lrkn82p0dhtf59n74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9eukRQ1u9hW2n9VXss-a_JEd-WF-HjhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966418071963-ahibuvn4jk7l2o6lrkn82p0dhtf59n74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
